@@ -1,12 +1,9 @@
-<!-- Readme file for Assignment 1 DASS  -->
 
 # Reddit clone using MERN Stack
 
 Made by : Aditya Raghuvanshi
 
-<!-- Roll no : 2021114009 -->
 
-In this Assignment I have successfully implemented the assignment with these parts of bonus : 1. Uploading Image [2 mark] 2. Fuzzy search [2 mark] 3. Keyboard Shortcuts [1 mark]
 
 ## SignIn / SignUp
 
