@@ -1,0 +1,42 @@
+.container-tags0123 {
+    display: flex;
+    overflow: scroll;
+    width: 100%;
+    max-width: 100%;
+    padding-left: 14px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    color: black
+  }
+  
+  .container-tags0123 input {
+    width: 100%;
+    min-width: 50%;
+    border: none;
+    border-radius: 5px;
+    padding: 14px;
+    padding-left: 14px;
+  }
+  
+  .tag0123 {
+    display: flex;
+    align-items: center;
+    margin: 7px 0;
+    margin-right: 10px;
+    padding: 0 10px;
+    padding-right: 5px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    white-space: nowrap;
+    color: white;
+  }
+  
+  .tag0123 button {
+    display: flex;
+    padding: 6px;
+    border: none;
+    background-color: unset;
+    cursor: pointer;
+    color: white;
+  }
